@@ -280,7 +280,7 @@
 							<p>Hi, I am Vishwakant Mishra</p>
 							<p>I am a B.Tech. III year student.</p>
 							<p>I develop Games and Applications.</p>
-							<a  href="mailto:info@lazymonster.in"><input type="button" id="form-submit" class="pull-right" value="Send me email"></a>
+							<a  href="mailto:vkmishra@live.com"><input type="button" id="form-submit" class="pull-right" value="Send me email"></a>
 						</div>
 					</div>
 					<!-- end contact form -->
@@ -333,7 +333,7 @@
 						<div class="footer-single">
 							<h6>Contact</h6>
 							<ul>
-								<li><a href="mailto:info@lazymonster.in">Email Me</a></li>
+								<li><a href="mailto:vkmishra@live.com">Email Me</a></li>
 								<li><a href="https://in.linkedin.com/in/vishwakantmishra" target="_blank">LinkedIn</a></li>
 								<li><a href="https://github.com/vkmishra" target="_blank">Github</a></li>
 								<li><a href="https://plus.google.com/+VishwakantM" target="_blank">Google Plus</a></li>
