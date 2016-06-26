@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+  <head>
+    <title> Time</title>
+  <script>
+    var d = new Date();
+    var year = d.getUTCFullYear();
+    var month = d.getUTCMonth();
+    var day = d.getUTCDate();
+    var hour = d.getUTCHours();
+    var minute = d.getUTCMinutes();
+    var second = d.getUTCSeconds();
+    var t = d.toUTCString();
+    document.write(year+":"+(month+1)+":"+day+":"+hour+":"+minute +":"+second );
+  </script>
+  </head>
+  <body></body>
+</html>
